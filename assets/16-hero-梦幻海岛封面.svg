@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" width="1200" height="720">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1a2e"/><stop offset="0.55" stop-color="#0d7377"/><stop offset="1" stop-color="#f5c842"/></linearGradient>
+    <radialGradient id="sun" cx="78%" cy="24%" r="22%"><stop offset="0" stop-color="#fff4bf" stop-opacity="0.95"/><stop offset="1" stop-color="#fff4bf" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="720" fill="url(#g)"/>
+  <rect width="1200" height="720" fill="url(#sun)"/>
+  <path d="M0 520 C160 470 290 560 450 510 C640 450 800 540 1200 480 L1200 720 L0 720 Z" fill="#06111f" opacity="0.72"/>
+  <path d="M0 575 C230 530 360 610 590 565 C790 526 980 590 1200 540 L1200 720 L0 720 Z" fill="#071827" opacity="0.82"/>
+  <circle cx="180" cy="180" r="55" fill="#ffffff" opacity="0.12"/>
+  <circle cx="245" cy="150" r="18" fill="#ffffff" opacity="0.18"/>
+  <text x="600" y="346" text-anchor="middle" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" font-size="76" font-weight="800" fill="#fff7d6">梦幻海岛封面</text>
+  <text x="600" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" letter-spacing="8" fill="#ffffff" opacity="0.75">MENGMENG TRAVEL</text>
+</svg>
